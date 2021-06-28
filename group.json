@@ -1,0 +1,15 @@
+{
+    "Antman": {
+      "Wolverine": "Grey",
+      "Paul": "Red"
+    },
+    "Marvel": {
+      "Ironman": "Red",
+      "BlackWidow": "Black"
+    },
+    "DC": {
+      "Bruce": "Blue",
+      "Comic": "Yellow",
+      "Niha": "Yellow"
+    }
+}
